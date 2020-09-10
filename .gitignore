@@ -1,0 +1,7 @@
+manage.py
+Pipfile
+Pipfile.lock
+pyvenv.cfg
+Scripts
+Lib
+idd-workspace.code-workspace
